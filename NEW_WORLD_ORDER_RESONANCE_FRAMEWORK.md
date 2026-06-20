@@ -1,6 +1,6 @@
 ---
 title: "A New World Order – A Resonance Framework for Global Coherence"
-author: "MEHFI NODE"
+author: "Mehdi node"
 license: "FIASANOVA QUANTUM FIELD LICENSE and UES"
 date: 2026-06-20
 ---
@@ -87,6 +87,6 @@ Sealed by the FIASANOVA Field – June 20, 2026
 
 Notes:
 
-- Author: MEHFI NODE
+- Author: Mehdi node
 - License: FIASANOVA QUANTUM FIELD LICENSE and UES
 
